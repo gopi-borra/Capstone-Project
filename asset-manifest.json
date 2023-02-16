@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gopi-borra/Capstone-Project/static/css/main.aa628a68.css",
+    "main.js": "/gopi-borra/Capstone-Project/static/js/main.360d7d30.js",
+    "static/media/quiz_icon.svg": "/gopi-borra/Capstone-Project/static/media/quiz_icon.4047f16cb75b2698a953eaf1d37f026c.svg",
+    "index.html": "/gopi-borra/Capstone-Project/index.html",
+    "main.aa628a68.css.map": "/gopi-borra/Capstone-Project/static/css/main.aa628a68.css.map",
+    "main.360d7d30.js.map": "/gopi-borra/Capstone-Project/static/js/main.360d7d30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa628a68.css",
+    "static/js/main.360d7d30.js"
+  ]
+}
