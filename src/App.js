@@ -26,7 +26,7 @@ function App() {
      <Header />
      <Routes>
       <Route 
-      path="/Capstone-Project" exact element = {
+      path="/" exact element = {
       <Home 
       name = {name} 
       setName = {setName}

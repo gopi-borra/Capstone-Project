@@ -8,7 +8,7 @@ const Result = ({ name, score }) => {
 
   useEffect(() => {
     if (!name) {
-        navigate("/Capstone-Project");
+        navigate("/");
     }
   }, [name, navigate]);
 
@@ -20,7 +20,7 @@ const Result = ({ name, score }) => {
         color="secondary"
         size="large"
         style={{ alignSelf: "center", marginTop: 20 }}
-        href="/Capstone-Project"
+        href="/"
       >
         Go to homepage
       </Button>
